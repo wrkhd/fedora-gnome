@@ -1,5 +1,7 @@
 # fedora-gnome
 
+setup: gruvbox-dark theme + icons, recursive font everywhere :))
+
 apps: discord, telegram, intellij-ce, clion, vlc
 
 extensions: arcmenu(runner), user themes, workspaces bar, launch new instance, pop shell
