@@ -4,10 +4,13 @@ setup: gruvbox-dark theme + icons, recursive font everywhere :))
 
 apps: discord, telegram, intellij-ce, clion, vlc
 
-extensions: arcmenu(runner), user themes, workspaces bar, launch new instance, pop shell
+extensions: arcmenu(runner), user themes, workspaces bar, launch new instance, pop shell, resource monitor
 
 things to do as installed: 
 
 1) change workspaces on alt+(1-4)
 
 2) gsettings set org.gnome.desktop.wm.preferences workspace-names "['www', 'code', 'misc1', 'misc2', 'more']"
+
+3) git config --global 
+
