@@ -14,3 +14,6 @@ things to do as installed:
 
 3) git config --global 
 
+![image](https://user-images.githubusercontent.com/63347222/174787986-a5a5ca4d-0313-424c-ace2-65ea6b46be6e.png)
+
+![image](https://user-images.githubusercontent.com/63347222/174788142-2325e56c-c214-47d1-a6ac-9b052d8131ff.png)
